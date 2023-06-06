@@ -104,7 +104,7 @@ void LCD_WELCOME(){
   lcd.setCursor(1,0);
   lcd.print("WELCOME TO UPRM");
     lcd.setCursor(1,1);
-  lcd.print("CAMP. ICOM 2021");
+  lcd.print("CAMP. ICOM 2023");
    delay(3000);
 }
 void LCD_ACTIVAR_ALARMA(){
